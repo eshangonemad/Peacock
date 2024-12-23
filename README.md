@@ -1,0 +1,1 @@
+Peacock is a simple portfolio maker that uses a wsiwyg editor, essentially what you see on the editor will be the final product. this is for any beginners who want to create a portfolio but dont have the skills to do so/ this could also be used to make websites in the simple sense
